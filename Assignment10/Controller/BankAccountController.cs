@@ -18,7 +18,7 @@ namespace Assignment10.Controller
             var Accnt_Details = new
             {
                 accountNumber = 1001,
-                accountHolderName = "Rashu",
+                accountHolderName = "Rashu account",
                 currentBalance = 5000
             };
             Response.StatusCode = 200;
