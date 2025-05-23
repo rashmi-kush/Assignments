@@ -48,7 +48,7 @@ namespace Assignment10.Controller
                     var Accnt_Details = new
                     {
                         accountNumber = 1001,
-                        accountHolderName = "Example Rashu",
+                        accountHolderName = "Example",
                         currentBalance = 5000
                     };
                     if (accountnum == 1001)
